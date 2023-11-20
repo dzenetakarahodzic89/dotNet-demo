@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Migrations/20220602124050_Initial.cs">
+    <Files>
+      <File FileName="CRUDExample/Controllers/CountriesController.cs" Line="1" Column="1" />
+      <File FileName="Entities/Migrations/20220602124050_Initial.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDSolution" expanded="True">
+            <Node name="CRUDExample" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20220602124050_Initial.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
